@@ -11,7 +11,7 @@ public class AGReal {
 		Problema problema = new Problema();
 
 		
-		Integer tamanho = 100;  // real1 = 50, real2 = 100
+		Integer tamanho = 50;  // real1 = 50, real2 = 100
 		Double pCrossover = 0.8;
 		Double pMutacao = 0.07;  //real1 = 0.05, real2=0.07
 		
